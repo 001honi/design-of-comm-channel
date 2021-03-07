@@ -1,5 +1,10 @@
 # Servo kontrolü için uçtan uca haberleşme kanalı tasarımı
 
+Ayrıntılı bilgi için final sunumu [linktedir](assets/final_sunum.pdf).
+
+<p align="center">
+  <img src="https://github.com/001honi/design-of-comm-channel/blob/main/assets/scheme.png" />
+</p> 
 
 ## Dosya Hiyerarşisi
 #### arduino
